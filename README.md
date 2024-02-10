@@ -3,7 +3,7 @@
 ## Introduction
 This project aims to predict house prices using machine learning techniques. The dataset used for this project contains various features such as square footage, number of bedrooms, number of bathrooms, and location. 
 
-[Documentation Detail](https://github.com/Theofilusarifin/House-Pricing-Prediction/blob/main/documentation.pdf)
+[Documentation Details](https://github.com/Theofilusarifin/House-Pricing-Prediction/blob/main/documentation.pdf)
 
 ## Exploratory Data Analysis (EDA)
 - **Dataset Overview:** The dataset contains X samples and Y features.
