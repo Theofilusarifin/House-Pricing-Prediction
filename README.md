@@ -1,7 +1,10 @@
 # House Pricing Prediction
 
 ## Introduction
-This project aims to predict house prices using machine learning techniques. The dataset used for this project contains various features such as square footage, number of bedrooms, number of bathrooms, and location. 
+Real Estate refers to tangible properties such as land, buildings, or other structures, which can serve as investment assets or a source of income through rent or property sales. Machine Learning plays a crucial role in the real estate industry by predicting property prices based on factors such as location, size, amenities, and property condition, assisting agents, investors, and sellers in determining the right price.
+
+## Goals
+The goal of this project is to build a machine learning model that can predict the selling prices of houses in the Ames area, Iowa, US.
 
 [Documentation Details](https://github.com/Theofilusarifin/House-Pricing-Prediction/blob/main/documentation.pdf)
 
