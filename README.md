@@ -34,7 +34,7 @@ The goal of this project is to build a machine learning model that can predict t
 | **Best Model**             | **0.086** | **0.955** | **0.066** | **0.969** | **0.052** |
 
 ## Model Deployment
-The best performing model has been deployed using Streamlit. You can access the deployed application [here](link_to_streamlit_app).
+The best performing model has been deployed using Streamlit. You can access the deployed application [here](https://housing-price-prediction-alan-turing.streamlit.app/).
 
 ## Conclusion
 The Gradient Boosting Regressor performed the best among the models evaluated, achieving an RMSE of 0.086 and R-squared of 0.955. Further improvements could be made by incorporating additional features or exploring different modeling techniques.
